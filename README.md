@@ -17,7 +17,8 @@ correlation between TH and EN versions, etc.) in the *Dataset Details* files.
 |TH-SemEval-500  | [th-semeval-500.csv](th-semeval-500.csv)  | [th-semeval-500-details.xlsx](th-semeval-500-details.xlsx)|  
 |TWS-65          | [tws65.csv](tws65.csv)                    | [tws65_full.csv](tws65_full.csv)                          |  
 
-
+The datasets were created by KMITL University, Ladkrabang, Thailand (Dr. Ponrudee Netisopakul) together with ITMO University, St. Petersburg, Russia (Dr. Gerhard Wohlgenannt,
+Aleksei Pulich). 
 
 ## The Datasets
 * *TH-WordSim-353*: in based on [WordSim-353](http://www.cs.technion.ac.il/~gabr/resources/data/wordsim353/).
@@ -54,7 +55,4 @@ A submission (of the preprint) to *IEEE Access* is under review.
     *SimLex-999:* F. Hill, R. Reichart, and A. Korhonen, “Simlex-999: Evaluating semantic models with (genuine) similarity estimation,” Computational Linguistics, vol. 41, no. 4, pp. 665–695, 2015.
     [pdf on arxiv](https://arxiv.org/abs/1408.3456v1)
     *SemEval-500:* J. Camacho-Collados, M. T. Pilehvar, N. Collier, and R. Navigli, “Semeval-2017 task 2: Multilingual and cross-lingual semantic word similarity,” in Proc. 11th Int. Workshop on Semantic Evaluation (SemEval2017). Association for Computational Linguistics, 2017, pp. 15–26.
-
-
-
 
