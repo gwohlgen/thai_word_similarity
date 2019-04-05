@@ -48,12 +48,14 @@ Aleksei Pulich).
 ## Cite
 
 A submission of a publication to *IEEE Access* is under review. 
-    P. Netisopakul, G. Wohlgenannt and A. Pulich, Word Similarity Datasets for Thai:Construction and Evaluation, IEEE Access, 2019, under review 
+    `P. Netisopakul, G. Wohlgenannt and A. Pulich, Word Similarity Datasets for Thai: Construction and Evaluation, IEEE Access, 2019, under review`
 
 
 ##  References
-*WordSim-353:* L. Finkelstein, E. Gabrilovich, Y. Matias, E. Rivlin, Z. Solan, G. Wolfman, and E. Ruppin, “Placing search in context: The concept revisited,” ACM Transactions on information systems, vol. 20, no. 1, pp. 116–131, 2002.
-*SimLex-999:* F. Hill, R. Reichart, and A. Korhonen, “Simlex-999: Evaluating semantic models with (genuine) similarity estimation,” Computational Linguistics, vol. 41, no. 4, pp. 665–695, 2015.
+> *WordSim-353:* L. Finkelstein, E. Gabrilovich, Y. Matias, E. Rivlin, Z. Solan, G. Wolfman, and E. Ruppin, “Placing search in context: The concept revisited,” ACM Transactions on information systems, vol. 20, no. 1, pp. 116–131, 2002.
+
+> *SimLex-999:* F. Hill, R. Reichart, and A. Korhonen, “Simlex-999: Evaluating semantic models with (genuine) similarity estimation,” Computational Linguistics, vol. 41, no. 4, pp. 665–695, 2015.
     [pdf on arxiv](https://arxiv.org/abs/1408.3456v1)
-*SemEval-500:* J. Camacho-Collados, M. T. Pilehvar, N. Collier, and R. Navigli, “Semeval-2017 task 2: Multilingual and cross-lingual semantic word similarity,” in Proc. 11th Int. Workshop on Semantic Evaluation (SemEval2017). Association for Computational Linguistics, 2017, pp. 15–26.
+
+> *SemEval-500:* J. Camacho-Collados, M. T. Pilehvar, N. Collier, and R. Navigli, “Semeval-2017 task 2: Multilingual and cross-lingual semantic word similarity,” in Proc. 11th Int. Workshop on Semantic Evaluation (SemEval2017). Association for Computational Linguistics, 2017, pp. 15–26.
 
