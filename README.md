@@ -50,6 +50,8 @@ Aleksei Pulich).
 A submission of a publication to *IEEE Access* is under review. 
     `P. Netisopakul, G. Wohlgenannt and A. Pulich, Word Similarity Datasets for Thai: Construction and Evaluation, IEEE Access, 2019, under review`
 
+The preprint is found here: [https://arxiv.org/abs/1904.04307](https://arxiv.org/abs/1904.04307).
+
 
 ##  References
 > *WordSim-353:* L. Finkelstein, E. Gabrilovich, Y. Matias, E. Rivlin, Z. Solan, G. Wolfman, and E. Ruppin, “Placing search in context: The concept revisited,” ACM Transactions on information systems, vol. 20, no. 1, pp. 116–131, 2002.
