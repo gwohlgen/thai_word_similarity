@@ -23,22 +23,23 @@ Aleksei Pulich).
 ## The Datasets
 * *TH-WordSim-353*: in based on [WordSim-353](http://www.cs.technion.ac.il/~gabr/resources/data/wordsim353/).
     The English WordSim-353 is the most popular word similarity dataset. It contains 353 word pairs, and measures the semantic relatedness and a scale from 0 to 10. 
-    We translated the dataset to Thai, and rated the word pairs with 10 annotators. 
+    We translated the dataset to Thai, and rated the word pairs with 13 annotators. 
 
 * *TH-SimLex-999*: in based on [SimLex-999](https://fh295.github.io/simlex.html).
     SimLex-999 is specifically designed to capture similarity between terms, as opposed to relatedness (like in WordSim-353).
-    The dataset contains 666 noun, 222 verb and 111 adjective pairs. Characteristics of this dataset are that it only includes words from the vocabulary of WordNet, 
-    and that it contains a large number of antonymy pairs. The similarity ratings were created with crowdsourcing via Amazon Mechanical Turk, 
+    The dataset contains 666 noun, 222 verb and 111 adjective pairs. 
+    Characteristics of this dataset are that it only includes words from the vocabulary of WordNet, 
+    and that it contains a large number of antonymy pairs. In the English version, the similarity ratings were created with crowdsourcing via Amazon Mechanical Turk, 
     originally on a scale from 0 to 6, later linearly re-scaled to [0,10]. 
+    *We translated the dataset to Thai and rated with 16 Thai native speakers as annotators.*
 
 * *TH-SemEval-500*: in based on the dataset from [SemEval2017 (Task 2)](http://alt.qcri.org/semeval2017/task2/).
     SemEval-500 is a multilingual dataset for English, Farsi, German, Italian and Spanish for SemEval-2017, task 2.
-    The dataset contains 500 word pairs. The goal is to provide a challenging dataset, which includes word pairs from 34 domains such as 
-    chemistry and mineralogy, computing, culture and society.
+    The dataset contains 500 word pairs. The goal is to provide a challenging dataset, which includes word pairs from 34 domains such as chemistry and mineralogy, computing, culture and society.
     Furthermore, the dataset contains named entities (e.g., Microsoft), or multiword expressions (e.g., black hole) in any of the 34 domains.
     For rating they use a 5-point Likert scale with a step size of 0.25, and the instructions for the annotators contain both the notions of relatedness and similarity, 
     in which similarity is rated higher.
-
+    *We translated the dataset to Thai and rated with 16 Thai native speakers as annotators.*  
 
 * *tws-65*: This dataset is found in [Osathanunkul et al.](https://link.springer.com/chapter/10.1007/978-3-642-22000-5_56). 
     This is work by Osathanunkul et al., we only loaded it into a .csv file and provide it here. 
