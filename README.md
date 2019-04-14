@@ -6,16 +6,16 @@
 This repo contains translated and re-rated datasets for **word similarity for Thai language**.
 The four datasets are listed in the table below. The *Dataset* files are csv files, and just contain
 the word pairs, and the similarity score between the two words.
-Furthermore, we provide the individual annotator ratings as well as statistcs (inter-annotator agreement,
+Furthermore, we provide the individual annotator ratings as well as statistics (inter-annotator agreement,
 correlation between TH and EN versions, etc.) in the *Dataset Details* files.   
 
 
-|Name            | Dataset       | Dataset Details |
-|----------------| ------------- | ------------- |
-|TH-WordSim-353  | [th-wordsim-353.csv](th-wordsim-353.csv)  | [th-wordsim-353.details.xlsx](th-wordsim-353.details.xlsx)|
-|TH-SimLex-999   | [th-simlex-999.csv](th-simlex-999.csv)    | [th-simlex-999-details.xlsx](th-simlex-999-details.xlsx)  |
-|TH-SemEval-500  | [th-semeval-500.csv](th-semeval-500.csv)  | [th-semeval-500-details.xlsx](th-semeval-500-details.xlsx)|  
-|TWS-65          | [tws65.csv](tws65.csv)                    | [tws65_full.csv](tws65_full.csv)                          |  
+|Name            | Dataset  | Number of word pairs   | Dataset Details |
+|----------------| ------------- | -------------- | ------------- |
+|TH-WordSim-353  | [th-wordsim-353.csv](th-wordsim-353.csv)  | 353  | [th-wordsim-353.details.xlsx](th-wordsim-353.details.xlsx)|
+|TH-SimLex-999   | [th-simlex-999.csv](th-simlex-999.csv)    | 999  | [th-simlex-999-details.xlsx](th-simlex-999-details.xlsx)  |
+|TH-SemEval-500  | [th-semeval-500.csv](th-semeval-500.csv)  | 500  | [th-semeval-500-details.xlsx](th-semeval-500-details.xlsx)|  
+|TWS-65          | [tws65.csv](tws65.csv)                    | 65   | [tws65_full.csv](tws65_full.csv)                          |  
 
 The datasets were created by KMITL University, Ladkrabang, Thailand (Dr. Ponrudee Netisopakul) together with ITMO University, St. Petersburg, Russia (Dr. Gerhard Wohlgenannt,
 Aleksei Pulich). 
