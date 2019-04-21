@@ -10,6 +10,7 @@ Furthermore, we provide the individual annotator ratings as well as statistics (
 correlation between TH and EN versions, etc.) in the *Dataset Details* files.   
 
 
+
 |Name            | Dataset  | Number of word pairs   | Dataset Details |
 |----------------| ------------- | -------------- | ------------- |
 |TH-WordSim-353  | [th-wordsim-353.csv](th-wordsim-353.csv)  | 353  | [th-wordsim-353.details.xlsx](th-wordsim-353.details.xlsx)|
@@ -18,7 +19,7 @@ correlation between TH and EN versions, etc.) in the *Dataset Details* files.
 |TWS-65          | [tws65.csv](tws65.csv)                    | 65   | [tws65_full.csv](tws65_full.csv)                          |  
 
 The datasets were created by KMITL University, Ladkrabang, Thailand (Dr. Ponrudee Netisopakul) together with ITMO University, St. Petersburg, Russia (Dr. Gerhard Wohlgenannt,
-Aleksei Pulich). 
+Aleksei Pulich). If you just seek for a way to easily evaluate your Thai models with these datasets, see: [https://github.com/gwohlgen/word-embeddings-benchmarks](https://github.com/gwohlgen/word-embeddings-benchmarks).
 
 ## The Datasets
 * *TH-WordSim-353*: in based on [WordSim-353](http://www.cs.technion.ac.il/~gabr/resources/data/wordsim353/).
@@ -45,6 +46,13 @@ Aleksei Pulich).
     This is work by Osathanunkul et al., we only loaded it into a .csv file and provide it here. 
     We provide 2 versions, one with only 3 columns (the Thai word pair and the rating), 
     and a version which includes the English terms and the stddev.
+
+## Usage
+We made a repository which you can use to very simply evaluate any Thai word embedding model, it is available here:
+[https://github.com/gwohlgen/word-embeddings-benchmarks](https://github.com/gwohlgen/word-embeddings-benchmarks).
+
+
+
 
 ## Cite
 
