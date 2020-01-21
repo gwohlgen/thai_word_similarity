@@ -56,10 +56,10 @@ We made a repository which you can use to very simply evaluate any Thai word emb
 
 ## Cite
 
-A submission of a publication to *IEEE Access* is under review. 
-    `P. Netisopakul, G. Wohlgenannt and A. Pulich, Word Similarity Datasets for Thai: Construction and Evaluation, IEEE Access, 2019, under review`
+Please cite our paper in *IEEE Access*: 
+    `Ponrudee Netisopakul￼, Gerhard Wohlgenannt, Aleksei Pulich: Word Similarity Datasets for Thai: Construction and Evaluation. IEEE Access 7: 142907-142915 (2019)`
 
-The preprint is found here: [https://arxiv.org/abs/1904.04307](https://arxiv.org/abs/1904.04307).
+The paper is found here: [https://ieeexplore.ieee.org/abstract/document/8851127](https://ieeexplore.ieee.org/abstract/document/8851127).
 
 
 ##  References
