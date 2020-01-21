@@ -60,16 +60,16 @@ Please cite our paper in *IEEE Access*:
     `Ponrudee Netisopakul￼, Gerhard Wohlgenannt, Aleksei Pulich: Word Similarity Datasets for Thai: Construction and Evaluation. IEEE Access 7: 142907-142915 (2019)`
 
 The paper is found here: [https://doi.org/10.1109/ACCESS.2019.2944151](https://doi.org/10.1109/ACCESS.2019.2944151)
-    `@article{NetisopakulWP19,
-      author    = {Ponrudee Netisopakul and Gerhard Wohlgenannt and Aleksei Pulich},
-      title     = {Word Similarity Datasets for Thai: Construction and Evaluation},
-      journal   = {{IEEE} Access},
-      volume    = {7},
-      pages     = {142907--142915},
-      year      = {2019},
-      url       = {https://doi.org/10.1109/ACCESS.2019.2944151},
-      doi       = {10.1109/ACCESS.2019.2944151},
-    }`
+>    @article{NetisopakulWP19,
+>      author    = {Ponrudee Netisopakul and Gerhard Wohlgenannt and Aleksei Pulich},
+>      title     = {Word Similarity Datasets for Thai: Construction and Evaluation},
+>      journal   = {{IEEE} Access},
+>      volume    = {7},
+>      pages     = {142907--142915},
+>      year      = {2019},
+>      url       = {https://doi.org/10.1109/ACCESS.2019.2944151},
+>      doi       = {10.1109/ACCESS.2019.2944151},
+>    }
 
 
 ##  References
